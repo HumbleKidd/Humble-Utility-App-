@@ -1,0 +1,6 @@
+{
+  "name": "Nova Dashboard",
+  "description": "An elegant, offline-first personal suite including memos, tasks, and budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Persistence", "Mobile Responsive", "Intelligent Budgeting"]
+}
